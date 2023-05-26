@@ -1,4 +1,4 @@
-#Try the App throught https://weatherstatuus.netlify.app/
+#Try the App through https://weatherstatuus.netlify.app/
 
 # Getting Started with Create React App
 
