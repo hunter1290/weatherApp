@@ -1,0 +1,31 @@
+#footer {
+     z-index: 4;
+    background-color: #0000;
+    color: #fff;
+    padding: 40px 0;
+  }
+  
+  .footer-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  .footer-copyright p {
+    margin: 0;
+  }
+  
+  .footer-social-links a {
+    display: inline-block;
+    color: #fff;
+    font-size: 20px;
+    margin-left: 20px;
+    transition: all 0.3s ease;
+  }
+  
+  .footer-social-links a:hover {
+    color: #00bcd4;
+  }
